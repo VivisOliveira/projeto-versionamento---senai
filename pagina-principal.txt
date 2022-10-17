@@ -1,0 +1,6 @@
+ trabalho titulo principal
+
+fluxo de trabalho
+desenvolvimento do código
+git add . 
+git commit -m "desenvolvimento do trabalho"
