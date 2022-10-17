@@ -5,4 +5,10 @@ git add . (salvar)
 git commit -m "desenvolvimento do trabalho" (faz alteração do nome da pasta)
 
 git log  (mostrar os commit existente no repositório)
-  
+
+fluxo de trabalho com repositório remoto
+
+trabalhar no código 
+git add .
+git commit -m "descrição do commit"
+git push origin main
