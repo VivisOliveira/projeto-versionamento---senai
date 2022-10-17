@@ -1,6 +1,8 @@
- trabalho titulo principal
+fluxo de trabalho local 
 
-fluxo de trabalho
 desenvolvimento do código
-git add . 
-git commit -m "desenvolvimento do trabalho"
+git add . (salvar)
+git commit -m "desenvolvimento do trabalho" (faz alteração do nome da pasta)
+
+git log  (mostrar os commit existente no repositório)
+  
